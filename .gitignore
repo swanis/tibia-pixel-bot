@@ -1,0 +1,6 @@
+.vscode/
+maps/
+oldmaps/
+*.obj
+*.pdb
+*.zip
